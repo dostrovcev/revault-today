@@ -15,7 +15,11 @@ Built by [Dmitry Ostrovtsev](https://www.linkedin.com/in/dostrovcev/), founder o
 
 The Team view organizes tasks by people you enter; it does not synchronize with teammates. AI returns drafts and answers inside the app. It does not automatically send email or book appointments.
 
+![Application with fictional demo data](docs/screenshot.png)
+
 ## Build and install
+
+[Download the Apple Silicon preview (v0.1.0)](https://github.com/dostrovcev/revault-today/releases/tag/v0.1.0). It is an early, ad hoc signed build; Google/AI account setup is still required.
 
 Requires macOS 14+ and Xcode command line tools (`xcode-select --install`).
 
